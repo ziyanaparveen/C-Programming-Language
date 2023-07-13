@@ -1,0 +1,11 @@
+20:56:01 **** Incremental Build of configuration Debug for project 3.ifelseladder basicmaths ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\3.ifelseladder.o" "..\\src\\3.ifelseladder.c" 
+..\src\3.ifelseladder.c: In function 'main':
+..\src\3.ifelseladder.c:16:20: error: expected ')' before ';' token
+..\src\3.ifelseladder.c:17:2: error: expected ';' before 'printf'
+..\src\3.ifelseladder.c:15:23: warning: unused variable 'result'
+..\src\3.ifelseladder.c:15:16: warning: unused variable 'choice'
+
+20:56:02 Build Failed. 2 errors, 2 warnings. (took 234ms)
+

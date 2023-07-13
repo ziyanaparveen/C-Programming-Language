@@ -1,0 +1,9 @@
+18:25:44 **** Rebuild of configuration Debug for project 6.function with argument with return value ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\6.function with argument with return value.o" "..\\src\\6.function with argument with return value.c" 
+..\src\6.function with argument with return value.c: In function 'main':
+..\src\6.function with argument with return value.c:15:14: warning: unused variable 'result'
+gcc -o "6.function with argument with return value.exe" "src\\6.function with argument with return value.o" 
+
+18:25:44 Build Finished. 0 errors, 1 warnings. (took 514ms)
+

@@ -1,0 +1,7 @@
+20:36:00 **** Incremental Build of configuration Debug for project 4.for loop sample 1 to 100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\4.for loop sample 1 to 100.o" "..\\src\\4.for loop sample 1 to 100.c" 
+gcc -o "4.for loop sample 1 to 100.exe" "src\\4.for loop sample 1 to 100.o" 
+
+20:36:01 Build Finished. 0 errors, 0 warnings. (took 442ms)
+

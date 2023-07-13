@@ -1,0 +1,7 @@
+21:53:25 **** Incremental Build of configuration Debug for project 5.array limit given by user ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5.array limit given by user.o" "..\\src\\5.array limit given by user.c" 
+gcc -o "5.array limit given by user.exe" "src\\5.array limit given by user.o" 
+
+21:53:26 Build Finished. 0 errors, 0 warnings. (took 847ms)
+

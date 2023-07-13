@@ -1,0 +1,7 @@
+20:14:45 **** Incremental Build of configuration Debug for project 6.assignment2 add 2D ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\6.assignment2 add 2D.o" "..\\src\\6.assignment2 add 2D.c" 
+gcc -o "6.assignment2 add 2D.exe" "src\\6.assignment2 add 2D.o" 
+
+20:14:47 Build Finished. 0 errors, 0 warnings. (took 1s.741ms)
+

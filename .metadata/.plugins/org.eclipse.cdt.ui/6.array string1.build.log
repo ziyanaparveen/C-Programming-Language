@@ -1,0 +1,9 @@
+23:14:28 **** Incremental Build of configuration Debug for project 6.array string1 ****
+Info: Internal Builder is used for build
+gcc -o "6.array string1.exe" "src\\6.array string1.o" 
+src\6.array string1.o: In function `main':
+C:\Users\user\eclipse-worktest\6.array string1\Debug/../src/6.array string1.c:16: undefined reference to `setuf'
+collect2: ld returned 1 exit status
+
+23:14:28 Build Failed. 1 errors, 0 warnings. (took 246ms)
+

@@ -1,0 +1,7 @@
+20:09:39 **** Rebuild of configuration Debug for project 2.assignment2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.assignment2.o" "..\\src\\2.assignment2.c" 
+gcc -o 2.assignment2.exe "src\\2.assignment2.o" 
+
+20:09:41 Build Finished. 0 errors, 0 warnings. (took 2s.20ms)
+
